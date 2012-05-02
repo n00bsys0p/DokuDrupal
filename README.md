@@ -5,11 +5,15 @@ ATTRUBUTIONS/LICENSE
 --------------------
 
 license        GPL2            <http://www.gnu.org/licenses/gpl-2.0.html>
+
 author         Alex Shepherd   n00bATNOSPAMn00bsys0p.co.uk
 
 Based on the Dokuwiki MySQL authentication backend by:
+
 Andreas Gohr    andi@splitbrain.org
+
 Chris Smith     chris@jalakai.co.uk
+
 Matthias Grimm  matthias.grimmm@sourceforge.net
 
 INSTALLATION INSTRUCTIONS
